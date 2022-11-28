@@ -1,0 +1,250 @@
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <header id="barra_superior">
+      <div id="bars_icon"><img src="https://www.certto.com.br/images/icon-menu-new.png" alt="3 bars"></div>
+      <div id="logo_sesc"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Car_icon_alone.png" alt="Sesc PR"></div>
+      <span id="topbar_text">𝐀𝐋𝐈𝐌𝐀'𝐒 𝐂𝐀𝐑</span>
+      <div id="lupa_icon"> <img src="https://www.astri.org/wp-content/uploads/home/mobile-white-search.png" alt="lupa">
+      </div>
+    </header>
+    <div>
+      ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ
+    </div>
+    <div id="banner"><img src="https://i0.wp.com/www.cssscript.com/wp-content/uploads/2018/03/Simple-Location-Picker.png?fit=561%2C421&ssl=1" alt="Trulli" width="900" height="240">
+    </div>
+    <div id="Cursos">
+      <h1 style="color:Black;font-size:25px;"><b>Localização Atual</b></h1>
+    </div>
+    <div id="tennis" style="border:solid; border-width: 3px; border-radius: 25px">
+      <img style="border-radius: 25px" src="https://cdn-icons-png.flaticon.com/512/17/17736.png" alt="Avatar" style="width: 70px;" height="80" />
+      <div>
+        <H2 style="color:Black;font-size:20px;"> </H2>
+        <diV>
+          <p1 style="color:DarkBlue;font-size:20px;">
+            <b>ﾠInsira aqui aonde você está</b>
+          </p1>
+        </diV>
+        Vamos encontrar motoristas perto de você.
+        <div>
+        </div> ﾠ
+        <p1 style="color:Black;font-size:15px;">ﾠ</p1>
+      </div>
+    </div>
+
+    <div>
+      ﾠﾠ ﾠﾠ
+    </div>
+    
+    <div id="programacao">
+      <h1 style="color:DarkB;font-size:25px;"><b>Destino</b></h1>
+    </div>
+    <div style="border:solid; border-width: 3px; border-radius: 25px" id="jogoscomerciarios">
+      <img style="border-radius: 25px" src="https://cdn-icons-png.flaticon.com/512/17/17736.png" alt="Avatar" style="width: 70px;" height="80" />
+      <div>
+        <H2 style="color:Black;font-size:20px;"> </H2>
+        <diV>
+          <p1 style="color:Purple;font-size:20px;">
+            <b>ﾠAonde deseja ir?</b>
+          </p1>
+        </diV>
+        Vamos encontrar motoristas perto de você.
+        </div> ﾠ
+		<div>
+        <p1 style="color:Black;font-size:15px;">ﾠ</p1>
+
+        <p1 style="color:Black;font-size:15px;">
+    </div>
+	</div>
+	</body>
+	</html>
+	
+    <div>ﾠﾠﾠﾠ
+
+
+    <div>
+      ﾠﾠ ﾠﾠ ﾠﾠ
+    </div>
+
+    <div style="background-color: #418DB1;" id=cidade>
+      <div>ﾠﾠ
+
+      </div>
+      <p1>ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ</p1><button type="button" onclick="document.getElementById('demo').innerHTML = Date()"> Selecionar uma cidade. v </button>
+      <div>
+        ﾠﾠ
+      </div>
+
+
+
+      <div id=redes>
+        <p1> <b></b></p1>
+        <div>
+
+
+
+        </div>
+        <div>
+          <div>
+
+          </div>
+
+        </div>
+      </div>
+      <div>
+      </div>
+      <div>
+       
+      </div>
+
+      <div>
+        <b>Acesse também pelo nosso aplicativo</b>
+        <p1>
+          Google Play e App Store
+        </p1>
+        <div>
+          <p1> ﾠﾠﾠ</p1>
+        </div>
+      </div>
+      <div>
+        <h1>
+          <b1> Programaçãoﾠﾠﾠﾠ Cursosﾠﾠﾠﾠ Turismoﾠﾠﾠﾠ Unidades </b1>
+        </h1>
+      </div>
+      <div>
+        <h1>
+          <b1> Serviçosﾠﾠﾠﾠ Notíciasﾠﾠﾠﾠ Fale conoscoﾠﾠﾠﾠ Ouvidoria </b1>
+        </h1>
+      </div>
+
+
+      <body>
+
+
+        <html>
+css
+#barra_superior {
+  display: table-cell;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 64px;
+  background-color: #418DB1;
+  vertical-align: middle;
+}
+
+#logo_sesc {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+}
+
+#logo_sesc img {
+  width: 48px;
+  height: 48px;
+}
+
+#bars_icon {
+  display: inline-block;
+  position: relative;
+  margin-top: 20px;
+}
+
+#bars_icon img {
+  width: 20px;
+  height: 20px;
+}
+
+#topbar_text {
+  color: rgb(255, 255, 255);
+  padding-left: 32px;
+  padding-right: 16px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-family: Mulish, sans-serif;
+  line-height: 1.125;
+  font-size: 1.25rem;
+  text-decoration-color: rgb(255, 255, 255);
+}
+
+#trocar_cidade_icon {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  margin-left: 100px;
+}
+
+#trocar_cidade_icon img {
+  width: 20px;
+  height: 20px;
+}
+
+#lupa_icon {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  margin-left: 44px;
+}
+
+#lupa_icon img {
+  width: 20px;
+  height: 20px;
+}
+
+#header {
+  width: 20px;
+  height: 20px;
+}
+
+#banner {
+  width: px;
+  height: px;
+}
+
+#todos os cursos {
+  width: px;
+  height: px;
+}
+
+#tennis {
+  display: flex;
+}
+
+#idosos {
+  display: flex;
+}
+
+#redes {
+  display: flex;
+}
+
+#artes {
+  display: flex;
+}
+
+#jogoscomerciarios {
+  display: flex;
+}
+
+#todososcursos {}
+
+#programacao {}
+
+#cursos {}
+
+#barra_final {
+  display: table-cell;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 64px;
+  background-color:#8E45FF;
+  vertical-align: middle;
+}
